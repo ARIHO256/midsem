@@ -1,0 +1,54 @@
+header{
+    margin: top;
+    color: red;
+    margin: 15%;
+}
+main{
+    color: blue;
+    width: 1000px;
+    height: 700px;
+    float: left;
+    margin-top: auto;
+    font-style: italic;
+    background: image(hp1 (54));
+    column-rule-style: groove;
+}
+.main:hover{
+    color: black;
+}
+aside{
+    background-color: blue;
+    width: 29%;
+    height: 300px;
+    float: right;
+}
+footer{
+    clear: both;
+    color: tomato;
+}
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+}
+nav ul li a{
+    text-decoration: none;
+    background-color: azure;
+    columns: blue;
+}
+nav ul li a :hover{
+    background-color: blue;
+    color: yellow;
+}
+.h1styles{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1.some{
+    background-color: rebeccapurple;
+}
+body{
+    top: auto;
+    background-image: url(hp1\ \(13\).jpg);
+}
+body:hover{
+    color: aqua;
+}

@@ -1,0 +1,17 @@
+body{
+    background-image: url(ariho.jpg);
+    column-gap: 0ch;
+    display: inline;
+    font-size: 1rem;
+    margin: 10%;
+    width: 1000px;
+    height: 1000px;
+    float: inline-end;
+}
+body:hover{
+
+    color: white;
+}
+img{
+    border-radius: 50px;
+}
